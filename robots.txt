@@ -4,4 +4,4 @@ Allow: /*.js
 Allow: /*.css
 Allow: /*.webp
 
-Sitemap: http://booi-brasil.github.io/sitemap.xml
+Sitemap: http://casino-br.github.io/sitemap.xml
